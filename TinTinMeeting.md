@@ -59,4 +59,6 @@
 
 - [技术分享｜substrate架构介绍](https://www.bilibili.com/video/BV1du4y1377P/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce) 
 
-- [技术分享｜以太坊 DA 简介：EIP-4844和Danksharding](https://www.bilibili.com/video/BV13w411z76c/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce) 
+- [技术分享｜以太坊 DA 简介：EIP-4844和Danksharding](https://www.bilibili.com/video/BV13w411z76c/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
+
+- 
